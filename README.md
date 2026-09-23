@@ -1,7 +1,7 @@
 # P4: El que lee mucho y anda mucho, ve mucho y sabe mucho 📖🤺
 **Buscador Clásico, Semántico y RAG para El Quijote**
 
-## 👥 Equipo de Desarrollo (Grupo 03)
+## 👥 Equipo de Desarrollo
 * **Pablo Alonso Romero**
 * **Rodrigo Jesús-Portanet Martínez** 
 
